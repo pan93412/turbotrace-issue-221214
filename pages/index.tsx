@@ -1,4 +1,4 @@
-import Hi from "../components/hi";
+import Hi from "@components/hi";
 
 export default function Home() {
   return (
